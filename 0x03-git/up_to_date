@@ -1,1 +1,1 @@
-echo 'code' > up_to_date
+git pull origin master
